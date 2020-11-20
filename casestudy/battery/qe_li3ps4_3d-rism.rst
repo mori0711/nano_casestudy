@@ -61,7 +61,12 @@
 
 [4]Satomichi Nishihara's git repository(https://gitlab.com/nisihara1/q-e)
 
+|
+| 上記事例に関するお問い合わせ先:
 
-`EXabyte.ioのリンク先 <https://exabyte.io/>`_
+| nano-solution＠ctc-g.co.jp　(＠を小文字に変換してください)
 
-`EXabyte.ioの事例集 <http://www.engineering-eye.com/EXABYTE/case/>`_
+
+
+
+
