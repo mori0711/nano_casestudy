@@ -86,9 +86,7 @@ NNMDに使用する原子間ポテンシャルの作成にはAdvance/NeuralMDを
 [1]T. Tadano, Y. Gohda, and S. Tsuneyuki, J. Phys.: Condens. Matter 26, 225402 (2014)
 
 |
-| 上記事例に関するお問い合わせ先:
-
-| nano-solution＠ctc-g.co.jp　(＠を小文字に変換してください)
+| `上記事例に関するお問い合わせ / CONTACT US <https://form.run/@nanowork>`_
 
 
 

@@ -112,8 +112,7 @@ Computer Physics Communications 228 (2018): 178-184.
 
 
 |
-| 上記事例に関するお問い合わせ先:
+| `上記事例に関するお問い合わせ / CONTACT US <https://form.run/@nanowork>`_
 
-| nano-solution＠ctc-g.co.jp　(＠を小文字に変換してください)
 
 

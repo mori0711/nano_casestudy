@@ -62,9 +62,7 @@
 [4]Satomichi Nishihara's git repository(https://gitlab.com/nisihara1/q-e)
 
 |
-| 上記事例に関するお問い合わせ先:
-
-| nano-solution＠ctc-g.co.jp　(＠を小文字に変換してください)
+| `上記事例に関するお問い合わせ / CONTACT US <https://form.run/@nanowork>`_
 
 
 
