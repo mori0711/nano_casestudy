@@ -8,6 +8,7 @@
    casestudy/battery.rst
    casestudy/carbon_nanotube.rst
    casestudy/catalyst.rst
+   casestudy/metal.rst
 
 
 手法別計算事例
