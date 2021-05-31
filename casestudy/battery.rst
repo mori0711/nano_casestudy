@@ -9,4 +9,5 @@
    :maxdepth: 2
 
    battery/qe_li3ps4_3d-rism
+   battery/nnmd_li3ps4_diffusion
 
