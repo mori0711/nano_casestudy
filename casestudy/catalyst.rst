@@ -1,5 +1,5 @@
-触媒
-==
+触媒材料
+====
 
 ここでは触媒材料に関する計算事例について紹介します
 
@@ -10,3 +10,4 @@
 
    catalyst/nnmd_ceo2_benchmark
    catalyst/nnmd_ceo2_thermal_property1
+
