@@ -13,4 +13,5 @@
    catalyst/nnmd_ceo2_thermal_property1
    metal/tad_fe-c_diffusion
    battery/nnmd_li3ps4_diffusion
+   composite/thermal_resistance1
 
